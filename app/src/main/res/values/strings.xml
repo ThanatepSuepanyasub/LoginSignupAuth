@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login Signup Auth</string>
+    <string name="already_registered_login">Already registered? Login</string>
+</resources>
